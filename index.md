@@ -6,10 +6,12 @@ header:
   overlay_filter: 0.45
   overlay_image: /assets/images/bg-compressed.jpg
   actions:
-    - label: "Here's an overlay button example."
-      url: "https://pyphilly.org"
+    - label: "Contact Taney Legal"
+      url: "mailto:frank.taney@taneylegal.com"
 excerpt: >-
-  Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah.
+  Taney Legal has been serving information technology professionals for decades.
+  
+  Contact us at (215) 514-8736.
 feature_row:
   - title: "About"
     excerpt: "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah."
