@@ -14,19 +14,19 @@ excerpt: >-
   Contact us at (215) 514-8736.
 feature_row:
   - title: "About"
-    excerpt: "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah."
+    excerpt: "Some words to best describe us, and our areas of expertise."
     url: /about/
-    btn_label: "Read More"
+    btn_label: "About"
     btn_class: "btn--primary"
   - title: "Attorney Profile"
-    excerpt: "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah."
+    excerpt: "Details about our principal, Frank Taney."
     url: /attorney-profile/
     btn_label: "Attorney Profile"
     btn_class: "btn--primary"
-  - title: "Selected Litigation"
-    excerpt: "Blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah."
-    url: /selected-litigation/
-    btn_label: "Selected Litigation"
+  - title: "Selected Representations"
+    excerpt: "A selections of representations and results from our decades of practice."
+    url: /selected-representations/
+    btn_label: "Selected Representations"
     btn_class: "btn--primary"
 ---
 
