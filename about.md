@@ -11,7 +11,7 @@ permalink: /about/
 - Aggressive, cost effective dispute resolution and litigation avoidance
 - Startup and emerging growth company friendly
 - Technology focus
-- Flexible fee and rate structures
+-
 - Our service offerings and areas of focus:
 
 ## Civil and commercial litigation, dispute resolution and litigation avoidance
