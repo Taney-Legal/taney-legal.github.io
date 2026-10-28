@@ -3,7 +3,7 @@ title: "Attorney Profile"
 permalink: /attorney-profile/
 ---
 
-Francis “Frank” X. Taney, Jr. is the principal of Taney Legal LLC. Frank brings to bear for his clients broad and deep legal experience in both litigation as well as business transactions work and counseling.
+Francis “Frank” X. Taney, Jr. is the principal of Taney Legal LLC. Frank brings to bear for his clients broad and deep legal experience in both litigation as well as business transactional work and counseling.
 
 On the litigation side, Frank is a seasoned trial lawyer and commercial litigator with over 30 years’ experience in state and federal courts as well as in private arbitrations. He has taken close to 100 jury and bench trials and arbitrations to verdict or award as lead trial attorney, and has played substantial roles in numerous other trials and arbitrations, including international arbitrations. Frank’s substantive litigation focus has included, among other things, complex intellectual property, information technology, antitrust, securities law and construction matters, including putative multidistrict class actions. He has also represented numerous companies and executives in connection with regulatory actions and civil and white collar criminal investigations by state and federal agencies.
 
