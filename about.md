@@ -20,4 +20,4 @@ permalink: /about/
 - Technology commercialization
 - Strategic legal and business consulting
 
-We would like the opportunity to help you
+We would like the opportunity to help you accelerate your business.
