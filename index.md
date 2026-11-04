@@ -10,7 +10,7 @@ header:
       url: "mailto:frank.taney@taneylegal.com"
 excerpt: >-
   Law as Business Accelerant
-  
+  <br>
   Contact us at (215) 514-8736
 feature_row:
   - title: "About"
