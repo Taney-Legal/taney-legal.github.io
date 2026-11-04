@@ -11,7 +11,7 @@ header:
 excerpt: >-
   Law as Business Accelerant
   <br>
-  Contact us at (215) 514-8736
+  Call us at (215) 514-8736
 feature_row:
   - title: "About"
     excerpt: "Some words to best describe us, and our areas of expertise"
